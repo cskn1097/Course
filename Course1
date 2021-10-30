@@ -9,4 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Chandrasekaran B
+Data visualization with seaborn
+seaborn was an excellent tool, better than matplotlib for certain visulaizations like pair plot and so on
+there were many customizations possible via seaborn, compared to matplotlib.
